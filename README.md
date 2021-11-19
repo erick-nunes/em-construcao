@@ -1,2 +1,2 @@
-# em-contrucao
-Página "simprona" EM CONSTRUÇÃO
+# Em Contrução
+Página "simprona" para tela em construção, usando HTML e CSS.
